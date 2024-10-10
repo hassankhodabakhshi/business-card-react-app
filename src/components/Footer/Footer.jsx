@@ -10,10 +10,10 @@ export default function Footer(){
                 <a href="https://twitter.com/h_khodabakhshi" target="_blank"><FontAwesomeIcon icon={brands('twitter')} /></a>
             </div>
             <div>
-                <a href="https://www.facebook.com/hassankhodabakhshi" target="_blank"><FontAwesomeIcon icon={brands('instagram')} />
+                <FontAwesomeIcon icon={brands('instagram')} />
             </div>
             <div>
-                <a href="https://www.instagram.com/hassankhodabakhshi" target="_blank"><FontAwesomeIcon icon={brands('facebook')} />
+                <FontAwesomeIcon icon={brands('facebook')} />
             </div>
             <div>
                 <a href="https://www.linkedin.com/in/hassan-khodabakhshi-495743a0" target="_blank"><FontAwesomeIcon icon={brands('linkedin')} /></a>
